@@ -1,0 +1,15 @@
+C:\Projetos IFSC\WCF\WCF.Client\bin\Debug\WCF.Client.exe.config
+C:\Projetos IFSC\WCF\WCF.Client\bin\Debug\WCF.Client.exe
+C:\Projetos IFSC\WCF\WCF.Client\bin\Debug\WCF.Client.pdb
+C:\Projetos IFSC\WCF\WCF.Client\obj\Debug\WCF.Client.csproj.AssemblyReference.cache
+C:\Projetos IFSC\WCF\WCF.Client\obj\Debug\WCF.Client.csproj.SuggestedBindingRedirects.cache
+C:\Projetos IFSC\WCF\WCF.Client\obj\Debug\WCF.Client.csproj.CoreCompileInputs.cache
+C:\Projetos IFSC\WCF\WCF.Client\obj\Debug\WCF.Client.exe
+C:\Projetos IFSC\WCF\WCF.Client\obj\Debug\WCF.Client.pdb
+C:\Users\rafae\Downloads\WCF\WCF\WCF.Client\bin\Debug\WCF.Client.exe.config
+C:\Users\rafae\Downloads\WCF\WCF\WCF.Client\bin\Debug\WCF.Client.exe
+C:\Users\rafae\Downloads\WCF\WCF\WCF.Client\bin\Debug\WCF.Client.pdb
+C:\Users\rafae\Downloads\WCF\WCF\WCF.Client\obj\Debug\WCF.Client.csproj.AssemblyReference.cache
+C:\Users\rafae\Downloads\WCF\WCF\WCF.Client\obj\Debug\WCF.Client.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Downloads\WCF\WCF\WCF.Client\obj\Debug\WCF.Client.exe
+C:\Users\rafae\Downloads\WCF\WCF\WCF.Client\obj\Debug\WCF.Client.pdb

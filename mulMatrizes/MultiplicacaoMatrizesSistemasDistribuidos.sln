@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicacaoMatrizesLocal", "SistemasDistribuidos\MultiplicacaoMatrizesLocal.csproj", "{06133EDB-E100-482E-B0C9-427A6B7259AC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Local", "Local", "{E38AED47-049C-4CD1-A08D-0580394259D3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Distribuida", "Distribuida", "{49145640-D153-4733-A2B6-87C847F8E128}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06133EDB-E100-482E-B0C9-427A6B7259AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06133EDB-E100-482E-B0C9-427A6B7259AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06133EDB-E100-482E-B0C9-427A6B7259AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06133EDB-E100-482E-B0C9-427A6B7259AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{06133EDB-E100-482E-B0C9-427A6B7259AC} = {E38AED47-049C-4CD1-A08D-0580394259D3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DE54E11B-62C2-463C-AF49-6DC090CA3194}
+	EndGlobalSection
+EndGlobal
